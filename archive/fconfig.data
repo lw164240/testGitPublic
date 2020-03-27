@@ -1,0 +1,40 @@
+[{
+		"appname": "feishu",
+		"toggle": 1,
+		"item": [
+			".",
+			"/",
+			"//",
+			"//var/run/mDNSResponder",
+			"/Library/Preferences/com.apple.security.plist",
+			"/Library/Video/Plug-Ins",
+			"/Users/didi",
+			"/dev/dtracehelper",
+			"/dev/null",
+			"/dev/urandom",
+			"/etc/localtime",
+			"/etc/resolv.conf",
+			"/private/var/db/mds/messages/501/se_SecurityMessages",
+			"/private/var/db/mds/system/mdsDirectory.db",
+			"/private/var/db/mds/system/mdsObject.db",
+			"/private/var/db/timezone/tz/2019c.1.0/icutz/icutz44l.dat",
+			"/private/var/db/timezone/tz/2019c.1.0/zoneinfo/Asia/Shanghai",
+			"/private/var/db/timezone/tz/2019c.1.0/zoneinfo/UTC",
+			"/private/var/db/timezone/tz/2019c.1.0/zoneinfo/posixrules",
+			"/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/.",
+			"/private/var/run/resolv.conf",
+			"/usr/bin/sw_vers",
+			"/usr/lib/libobjc-trampolines.dylib",
+			"/usr/share/icu/icudt64l.dat",
+			"/var/db/timezone/icutz/icutz44l.dat",
+			"/var/db/timezone/zoneinfo/UTC",
+			"/var/db/timezone/zoneinfo/posixrules",
+			"/Library/Application Support/CrashReporter/SubmitDiagInfo.domains",
+			"/etc/passwd"
+		]
+	},
+	{
+		"appname": "wechat",
+		"toggle": 0
+	}
+]
