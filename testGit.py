@@ -1,3 +1,3 @@
 class test():
 
-    1234
+    print("21312")
